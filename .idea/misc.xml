@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/drawable/back_button.xml" value="0.2125" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/drawable/ic_baseline_auto_awesome_24.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.10364583333333334" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.12" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/menu/menu1.xml" value="0.25" />
+        <entry key="..\:/Users/Dmitriy/AndroidStudioProjects/08122021/app/src/main/res/menu/menu2.xml" value="0.22" />
       </map>
     </option>
   </component>
