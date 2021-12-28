@@ -29,15 +29,15 @@ class MainActivity : AppCompatActivity() {
 
             when (it.itemId) {
                 R.id.favorites -> {
-                    Toast.makeText(this, "Избранное", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, R.string.favorites, Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.watch_later -> {
-                    Toast.makeText(this, "Посмотреть похже", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, R.string.Watch_later, Toast.LENGTH_SHORT).show()
                     true
                 }
                 R.id.selections -> {
-                    Toast.makeText(this, "Подборки", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, R.string.compiletion, Toast.LENGTH_SHORT).show()
                     true
                 }
                 else -> false
